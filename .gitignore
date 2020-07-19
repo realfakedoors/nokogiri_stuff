@@ -1,0 +1,2 @@
+# ignore Byebug's command history file.
+.byebug_history
