@@ -27,8 +27,7 @@ def scraper
     }
     teams << team
   end
-  #byebug
-  puts teams
+  byebug
 end
 
 scraper
